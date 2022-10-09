@@ -1,0 +1,2 @@
+C:\Users\Hp\source\repos\Laboratory work 2 third semester in Csharp\Laboratory work 2 third semester in Csharp\obj\Debug\Laboratory work 2 third semester in Csharp.csprojAssemblyReference.cache
+C:\Users\Hp\source\repos\Laboratory work 2 third semester in Csharp\Laboratory work 2 third semester in Csharp\obj\Debug\Laboratory work 2 third semester in Csharp.csproj.CoreCompileInputs.cache

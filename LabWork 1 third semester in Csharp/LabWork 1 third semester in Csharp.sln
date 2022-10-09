@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1972
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LabWork 1 third semester in Csharp", "LabWork 1 third semester in Csharp\LabWork 1 third semester in Csharp.csproj", "{AFDA78AD-14C1-4073-8351-7C5B28382624}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFDA78AD-14C1-4073-8351-7C5B28382624}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFDA78AD-14C1-4073-8351-7C5B28382624}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFDA78AD-14C1-4073-8351-7C5B28382624}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFDA78AD-14C1-4073-8351-7C5B28382624}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A71F52A4-9D78-4480-B24A-A47C6904154E}
+	EndGlobalSection
+EndGlobal

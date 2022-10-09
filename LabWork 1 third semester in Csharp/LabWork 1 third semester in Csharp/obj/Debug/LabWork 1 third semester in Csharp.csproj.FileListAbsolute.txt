@@ -1,0 +1,7 @@
+C:\Users\Hp\source\repos\LabWork 1 third semester in Csharp\LabWork 1 third semester in Csharp\obj\Debug\LabWork 1 third semester in Csharp.csprojAssemblyReference.cache
+C:\Users\Hp\source\repos\LabWork 1 third semester in Csharp\LabWork 1 third semester in Csharp\obj\Debug\LabWork 1 third semester in Csharp.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\LabWork 1 third semester in Csharp\LabWork 1 third semester in Csharp\bin\Debug\LabWork 1 third semester in Csharp.exe.config
+C:\Users\Hp\source\repos\LabWork 1 third semester in Csharp\LabWork 1 third semester in Csharp\bin\Debug\LabWork 1 third semester in Csharp.exe
+C:\Users\Hp\source\repos\LabWork 1 third semester in Csharp\LabWork 1 third semester in Csharp\bin\Debug\LabWork 1 third semester in Csharp.pdb
+C:\Users\Hp\source\repos\LabWork 1 third semester in Csharp\LabWork 1 third semester in Csharp\obj\Debug\LabWork 1 third semester in Csharp.exe
+C:\Users\Hp\source\repos\LabWork 1 third semester in Csharp\LabWork 1 third semester in Csharp\obj\Debug\LabWork 1 third semester in Csharp.pdb
