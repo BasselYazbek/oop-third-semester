@@ -1,0 +1,10 @@
+C:\Users\Hp\source\repos\LabWork 3 in Csharp\LabWork 3 in Csharp\bin\Debug\LabWork 3 in Csharp.exe.config
+C:\Users\Hp\source\repos\LabWork 3 in Csharp\LabWork 3 in Csharp\bin\Debug\LabWork 3 in Csharp.exe
+C:\Users\Hp\source\repos\LabWork 3 in Csharp\LabWork 3 in Csharp\bin\Debug\LabWork 3 in Csharp.pdb
+C:\Users\Hp\source\repos\LabWork 3 in Csharp\LabWork 3 in Csharp\obj\Debug\LabWork 3 in Csharp.csprojAssemblyReference.cache
+C:\Users\Hp\source\repos\LabWork 3 in Csharp\LabWork 3 in Csharp\obj\Debug\LabWork 3 in Csharp.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\LabWork 3 in Csharp\LabWork 3 in Csharp\obj\Debug\LabWork 3 in Csharp.exe
+C:\Users\Hp\source\repos\LabWork 3 in Csharp\LabWork 3 in Csharp\obj\Debug\LabWork 3 in Csharp.pdb
+C:\Users\Hp\source\repos\LabWork 3 in Csharp\LabWork 3 in Csharp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Hp\source\repos\LabWork 3 in Csharp\LabWork 3 in Csharp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Hp\source\repos\LabWork 3 in Csharp\LabWork 3 in Csharp\obj\Debug\LabWork 3 in Csharp.csproj.CopyComplete
