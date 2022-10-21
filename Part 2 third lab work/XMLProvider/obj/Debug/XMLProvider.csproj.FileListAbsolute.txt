@@ -1,0 +1,35 @@
+c:\Users\Oleksii_Dyshlevyi\OneDrive\Work\Lesha\university\Дисципліни\OOP_C++_Csh_2_семестр\From Kramar\Lectures\SimplestMultiLayerApp2\XMLProvider\bin\Debug\XMLProvider.dll
+c:\Users\Oleksii_Dyshlevyi\OneDrive\Work\Lesha\university\Дисципліни\OOP_C++_Csh_2_семестр\From Kramar\Lectures\SimplestMultiLayerApp2\XMLProvider\bin\Debug\XMLProvider.pdb
+c:\Users\Oleksii_Dyshlevyi\OneDrive\Work\Lesha\university\Дисципліни\OOP_C++_Csh_2_семестр\From Kramar\Lectures\SimplestMultiLayerApp2\XMLProvider\bin\Debug\DataProviderContract.dll
+c:\Users\Oleksii_Dyshlevyi\OneDrive\Work\Lesha\university\Дисципліни\OOP_C++_Csh_2_семестр\From Kramar\Lectures\SimplestMultiLayerApp2\XMLProvider\bin\Debug\DataProviderContract.pdb
+c:\Users\Oleksii_Dyshlevyi\OneDrive\Work\Lesha\university\Дисципліни\OOP_C++_Csh_2_семестр\From Kramar\Lectures\SimplestMultiLayerApp2\XMLProvider\obj\Debug\XMLProvider.csprojResolveAssemblyReference.cache
+c:\Users\Oleksii_Dyshlevyi\OneDrive\Work\Lesha\university\Дисципліни\OOP_C++_Csh_2_семестр\From Kramar\Lectures\SimplestMultiLayerApp2\XMLProvider\obj\Debug\XMLProvider.csproj.CoreCompileInputs.cache
+c:\Users\Oleksii_Dyshlevyi\OneDrive\Work\Lesha\university\Дисципліни\OOP_C++_Csh_2_семестр\From Kramar\Lectures\SimplestMultiLayerApp2\XMLProvider\obj\Debug\XMLProvider.csproj.CopyComplete
+c:\Users\Oleksii_Dyshlevyi\OneDrive\Work\Lesha\university\Дисципліни\OOP_C++_Csh_2_семестр\From Kramar\Lectures\SimplestMultiLayerApp2\XMLProvider\obj\Debug\XMLProvider.dll
+c:\Users\Oleksii_Dyshlevyi\OneDrive\Work\Lesha\university\Дисципліни\OOP_C++_Csh_2_семестр\From Kramar\Lectures\SimplestMultiLayerApp2\XMLProvider\obj\Debug\XMLProvider.pdb
+c:\Users\Oleksii_Dyshlevyi\OneDrive\Work\Lesha\university\Дисципліни\OOP_C++_Csh_2_семестр\From Kramar\Lectures\SimplestMultiLayerApp3\XMLProvider\bin\Debug\XMLProvider.dll
+c:\Users\Oleksii_Dyshlevyi\OneDrive\Work\Lesha\university\Дисципліни\OOP_C++_Csh_2_семестр\From Kramar\Lectures\SimplestMultiLayerApp3\XMLProvider\bin\Debug\XMLProvider.pdb
+c:\Users\Oleksii_Dyshlevyi\OneDrive\Work\Lesha\university\Дисципліни\OOP_C++_Csh_2_семестр\From Kramar\Lectures\SimplestMultiLayerApp3\XMLProvider\bin\Debug\DataProviderContract.dll
+c:\Users\Oleksii_Dyshlevyi\OneDrive\Work\Lesha\university\Дисципліни\OOP_C++_Csh_2_семестр\From Kramar\Lectures\SimplestMultiLayerApp3\XMLProvider\bin\Debug\DataProviderContract.pdb
+c:\Users\Oleksii_Dyshlevyi\OneDrive\Work\Lesha\university\Дисципліни\OOP_C++_Csh_2_семестр\From Kramar\Lectures\SimplestMultiLayerApp3\XMLProvider\obj\Debug\XMLProvider.csprojResolveAssemblyReference.cache
+c:\Users\Oleksii_Dyshlevyi\OneDrive\Work\Lesha\university\Дисципліни\OOP_C++_Csh_2_семестр\From Kramar\Lectures\SimplestMultiLayerApp3\XMLProvider\obj\Debug\XMLProvider.csproj.CoreCompileInputs.cache
+c:\Users\Oleksii_Dyshlevyi\OneDrive\Work\Lesha\university\Дисципліни\OOP_C++_Csh_2_семестр\From Kramar\Lectures\SimplestMultiLayerApp3\XMLProvider\obj\Debug\XMLProvider.csproj.CopyComplete
+c:\Users\Oleksii_Dyshlevyi\OneDrive\Work\Lesha\university\Дисципліни\OOP_C++_Csh_2_семестр\From Kramar\Lectures\SimplestMultiLayerApp3\XMLProvider\obj\Debug\XMLProvider.dll
+c:\Users\Oleksii_Dyshlevyi\OneDrive\Work\Lesha\university\Дисципліни\OOP_C++_Csh_2_семестр\From Kramar\Lectures\SimplestMultiLayerApp3\XMLProvider\obj\Debug\XMLProvider.pdb
+c:\Users\Oleksii_Dyshlevyi\OneDrive\Work\Lesha\university\Дисципліни\OOP_C++_Csh_2_семестр\From Kramar\Lectures\!Examples-Sem3\SimplestMultiLayerApp3\XMLProvider\bin\Debug\XMLProvider.dll
+c:\Users\Oleksii_Dyshlevyi\OneDrive\Work\Lesha\university\Дисципліни\OOP_C++_Csh_2_семестр\From Kramar\Lectures\!Examples-Sem3\SimplestMultiLayerApp3\XMLProvider\bin\Debug\XMLProvider.pdb
+c:\Users\Oleksii_Dyshlevyi\OneDrive\Work\Lesha\university\Дисципліни\OOP_C++_Csh_2_семестр\From Kramar\Lectures\!Examples-Sem3\SimplestMultiLayerApp3\XMLProvider\bin\Debug\DataProviderContract.dll
+c:\Users\Oleksii_Dyshlevyi\OneDrive\Work\Lesha\university\Дисципліни\OOP_C++_Csh_2_семестр\From Kramar\Lectures\!Examples-Sem3\SimplestMultiLayerApp3\XMLProvider\bin\Debug\DataProviderContract.pdb
+c:\Users\Oleksii_Dyshlevyi\OneDrive\Work\Lesha\university\Дисципліни\OOP_C++_Csh_2_семестр\From Kramar\Lectures\!Examples-Sem3\SimplestMultiLayerApp3\XMLProvider\obj\Debug\XMLProvider.csprojAssemblyReference.cache
+c:\Users\Oleksii_Dyshlevyi\OneDrive\Work\Lesha\university\Дисципліни\OOP_C++_Csh_2_семестр\From Kramar\Lectures\!Examples-Sem3\SimplestMultiLayerApp3\XMLProvider\obj\Debug\XMLProvider.csproj.CopyComplete
+c:\Users\Oleksii_Dyshlevyi\OneDrive\Work\Lesha\university\Дисципліни\OOP_C++_Csh_2_семестр\From Kramar\Lectures\!Examples-Sem3\SimplestMultiLayerApp3\XMLProvider\obj\Debug\XMLProvider.dll
+c:\Users\Oleksii_Dyshlevyi\OneDrive\Work\Lesha\university\Дисципліни\OOP_C++_Csh_2_семестр\From Kramar\Lectures\!Examples-Sem3\SimplestMultiLayerApp3\XMLProvider\obj\Debug\XMLProvider.pdb
+C:\Users\Hp\Desktop\repos\SimpleThreetier\XMLProvider\bin\Debug\XMLProvider.dll
+C:\Users\Hp\Desktop\repos\SimpleThreetier\XMLProvider\bin\Debug\XMLProvider.pdb
+C:\Users\Hp\Desktop\repos\SimpleThreetier\XMLProvider\bin\Debug\DataProviderContract.dll
+C:\Users\Hp\Desktop\repos\SimpleThreetier\XMLProvider\bin\Debug\DataProviderContract.pdb
+C:\Users\Hp\Desktop\repos\SimpleThreetier\XMLProvider\obj\Debug\XMLProvider.csprojAssemblyReference.cache
+C:\Users\Hp\Desktop\repos\SimpleThreetier\XMLProvider\obj\Debug\XMLProvider.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\repos\SimpleThreetier\XMLProvider\obj\Debug\XMLProvider.csproj.CopyComplete
+C:\Users\Hp\Desktop\repos\SimpleThreetier\XMLProvider\obj\Debug\XMLProvider.dll
+C:\Users\Hp\Desktop\repos\SimpleThreetier\XMLProvider\obj\Debug\XMLProvider.pdb

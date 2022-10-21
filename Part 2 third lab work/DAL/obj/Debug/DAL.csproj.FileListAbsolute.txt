@@ -1,0 +1,43 @@
+c:\Users\Oleksii_Dyshlevyi\OneDrive\Work\Lesha\university\Дисципліни\OOP_C++_Csh_2_семестр\From Kramar\Lectures\SimplestMultiLayerApp2\DAL\bin\Debug\DAL.dll
+c:\Users\Oleksii_Dyshlevyi\OneDrive\Work\Lesha\university\Дисципліни\OOP_C++_Csh_2_семестр\From Kramar\Lectures\SimplestMultiLayerApp2\DAL\bin\Debug\DAL.pdb
+c:\Users\Oleksii_Dyshlevyi\OneDrive\Work\Lesha\university\Дисципліни\OOP_C++_Csh_2_семестр\From Kramar\Lectures\SimplestMultiLayerApp2\DAL\bin\Debug\DataProviderContract.dll
+c:\Users\Oleksii_Dyshlevyi\OneDrive\Work\Lesha\university\Дисципліни\OOP_C++_Csh_2_семестр\From Kramar\Lectures\SimplestMultiLayerApp2\DAL\bin\Debug\XMLProvider.dll
+c:\Users\Oleksii_Dyshlevyi\OneDrive\Work\Lesha\university\Дисципліни\OOP_C++_Csh_2_семестр\From Kramar\Lectures\SimplestMultiLayerApp2\DAL\bin\Debug\DataProviderContract.pdb
+c:\Users\Oleksii_Dyshlevyi\OneDrive\Work\Lesha\university\Дисципліни\OOP_C++_Csh_2_семестр\From Kramar\Lectures\SimplestMultiLayerApp2\DAL\bin\Debug\XMLProvider.pdb
+c:\Users\Oleksii_Dyshlevyi\OneDrive\Work\Lesha\university\Дисципліни\OOP_C++_Csh_2_семестр\From Kramar\Lectures\SimplestMultiLayerApp2\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+c:\Users\Oleksii_Dyshlevyi\OneDrive\Work\Lesha\university\Дисципліни\OOP_C++_Csh_2_семестр\From Kramar\Lectures\SimplestMultiLayerApp2\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+c:\Users\Oleksii_Dyshlevyi\OneDrive\Work\Lesha\university\Дисципліни\OOP_C++_Csh_2_семестр\From Kramar\Lectures\SimplestMultiLayerApp2\DAL\obj\Debug\DAL.csproj.CopyComplete
+c:\Users\Oleksii_Dyshlevyi\OneDrive\Work\Lesha\university\Дисципліни\OOP_C++_Csh_2_семестр\From Kramar\Lectures\SimplestMultiLayerApp2\DAL\obj\Debug\DAL.dll
+c:\Users\Oleksii_Dyshlevyi\OneDrive\Work\Lesha\university\Дисципліни\OOP_C++_Csh_2_семестр\From Kramar\Lectures\SimplestMultiLayerApp2\DAL\obj\Debug\DAL.pdb
+c:\Users\Oleksii_Dyshlevyi\OneDrive\Work\Lesha\university\Дисципліни\OOP_C++_Csh_2_семестр\From Kramar\Lectures\SimplestMultiLayerApp3\DAL\bin\Debug\DAL.dll
+c:\Users\Oleksii_Dyshlevyi\OneDrive\Work\Lesha\university\Дисципліни\OOP_C++_Csh_2_семестр\From Kramar\Lectures\SimplestMultiLayerApp3\DAL\bin\Debug\DAL.pdb
+c:\Users\Oleksii_Dyshlevyi\OneDrive\Work\Lesha\university\Дисципліни\OOP_C++_Csh_2_семестр\From Kramar\Lectures\SimplestMultiLayerApp3\DAL\bin\Debug\DataProviderContract.dll
+c:\Users\Oleksii_Dyshlevyi\OneDrive\Work\Lesha\university\Дисципліни\OOP_C++_Csh_2_семестр\From Kramar\Lectures\SimplestMultiLayerApp3\DAL\bin\Debug\XMLProvider.dll
+c:\Users\Oleksii_Dyshlevyi\OneDrive\Work\Lesha\university\Дисципліни\OOP_C++_Csh_2_семестр\From Kramar\Lectures\SimplestMultiLayerApp3\DAL\bin\Debug\DataProviderContract.pdb
+c:\Users\Oleksii_Dyshlevyi\OneDrive\Work\Lesha\university\Дисципліни\OOP_C++_Csh_2_семестр\From Kramar\Lectures\SimplestMultiLayerApp3\DAL\bin\Debug\XMLProvider.pdb
+c:\Users\Oleksii_Dyshlevyi\OneDrive\Work\Lesha\university\Дисципліни\OOP_C++_Csh_2_семестр\From Kramar\Lectures\SimplestMultiLayerApp3\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+c:\Users\Oleksii_Dyshlevyi\OneDrive\Work\Lesha\university\Дисципліни\OOP_C++_Csh_2_семестр\From Kramar\Lectures\SimplestMultiLayerApp3\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+c:\Users\Oleksii_Dyshlevyi\OneDrive\Work\Lesha\university\Дисципліни\OOP_C++_Csh_2_семестр\From Kramar\Lectures\SimplestMultiLayerApp3\DAL\obj\Debug\DAL.csproj.CopyComplete
+c:\Users\Oleksii_Dyshlevyi\OneDrive\Work\Lesha\university\Дисципліни\OOP_C++_Csh_2_семестр\From Kramar\Lectures\SimplestMultiLayerApp3\DAL\obj\Debug\DAL.dll
+c:\Users\Oleksii_Dyshlevyi\OneDrive\Work\Lesha\university\Дисципліни\OOP_C++_Csh_2_семестр\From Kramar\Lectures\SimplestMultiLayerApp3\DAL\obj\Debug\DAL.pdb
+c:\Users\Oleksii_Dyshlevyi\OneDrive\Work\Lesha\university\Дисципліни\OOP_C++_Csh_2_семестр\From Kramar\Lectures\!Examples-Sem3\SimplestMultiLayerApp3\DAL\bin\Debug\DAL.dll
+c:\Users\Oleksii_Dyshlevyi\OneDrive\Work\Lesha\university\Дисципліни\OOP_C++_Csh_2_семестр\From Kramar\Lectures\!Examples-Sem3\SimplestMultiLayerApp3\DAL\bin\Debug\DAL.pdb
+c:\Users\Oleksii_Dyshlevyi\OneDrive\Work\Lesha\university\Дисципліни\OOP_C++_Csh_2_семестр\From Kramar\Lectures\!Examples-Sem3\SimplestMultiLayerApp3\DAL\bin\Debug\DataProviderContract.dll
+c:\Users\Oleksii_Dyshlevyi\OneDrive\Work\Lesha\university\Дисципліни\OOP_C++_Csh_2_семестр\From Kramar\Lectures\!Examples-Sem3\SimplestMultiLayerApp3\DAL\bin\Debug\XMLProvider.dll
+c:\Users\Oleksii_Dyshlevyi\OneDrive\Work\Lesha\university\Дисципліни\OOP_C++_Csh_2_семестр\From Kramar\Lectures\!Examples-Sem3\SimplestMultiLayerApp3\DAL\bin\Debug\DataProviderContract.pdb
+c:\Users\Oleksii_Dyshlevyi\OneDrive\Work\Lesha\university\Дисципліни\OOP_C++_Csh_2_семестр\From Kramar\Lectures\!Examples-Sem3\SimplestMultiLayerApp3\DAL\bin\Debug\XMLProvider.pdb
+c:\Users\Oleksii_Dyshlevyi\OneDrive\Work\Lesha\university\Дисципліни\OOP_C++_Csh_2_семестр\From Kramar\Lectures\!Examples-Sem3\SimplestMultiLayerApp3\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+c:\Users\Oleksii_Dyshlevyi\OneDrive\Work\Lesha\university\Дисципліни\OOP_C++_Csh_2_семестр\From Kramar\Lectures\!Examples-Sem3\SimplestMultiLayerApp3\DAL\obj\Debug\DAL.csproj.CopyComplete
+c:\Users\Oleksii_Dyshlevyi\OneDrive\Work\Lesha\university\Дисципліни\OOP_C++_Csh_2_семестр\From Kramar\Lectures\!Examples-Sem3\SimplestMultiLayerApp3\DAL\obj\Debug\DAL.dll
+c:\Users\Oleksii_Dyshlevyi\OneDrive\Work\Lesha\university\Дисципліни\OOP_C++_Csh_2_семестр\From Kramar\Lectures\!Examples-Sem3\SimplestMultiLayerApp3\DAL\obj\Debug\DAL.pdb
+C:\Users\Hp\Desktop\repos\SimpleThreetier\DAL\bin\Debug\DAL.dll
+C:\Users\Hp\Desktop\repos\SimpleThreetier\DAL\bin\Debug\DAL.pdb
+C:\Users\Hp\Desktop\repos\SimpleThreetier\DAL\bin\Debug\DataProviderContract.dll
+C:\Users\Hp\Desktop\repos\SimpleThreetier\DAL\bin\Debug\XMLProvider.dll
+C:\Users\Hp\Desktop\repos\SimpleThreetier\DAL\bin\Debug\DataProviderContract.pdb
+C:\Users\Hp\Desktop\repos\SimpleThreetier\DAL\bin\Debug\XMLProvider.pdb
+C:\Users\Hp\Desktop\repos\SimpleThreetier\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\Hp\Desktop\repos\SimpleThreetier\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\repos\SimpleThreetier\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Hp\Desktop\repos\SimpleThreetier\DAL\obj\Debug\DAL.dll
+C:\Users\Hp\Desktop\repos\SimpleThreetier\DAL\obj\Debug\DAL.pdb
