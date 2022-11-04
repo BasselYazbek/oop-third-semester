@@ -1,0 +1,7 @@
+C:\Users\Hp\source\repos\Lab Work 4 third semester Csharp\Lab Work 4 third semester Csharp\bin\Debug\Lab Work 4 third semester Csharp.exe.config
+C:\Users\Hp\source\repos\Lab Work 4 third semester Csharp\Lab Work 4 third semester Csharp\bin\Debug\Lab Work 4 third semester Csharp.exe
+C:\Users\Hp\source\repos\Lab Work 4 third semester Csharp\Lab Work 4 third semester Csharp\bin\Debug\Lab Work 4 third semester Csharp.pdb
+C:\Users\Hp\source\repos\Lab Work 4 third semester Csharp\Lab Work 4 third semester Csharp\obj\Debug\Lab Work 4 third semester Csharp.csprojAssemblyReference.cache
+C:\Users\Hp\source\repos\Lab Work 4 third semester Csharp\Lab Work 4 third semester Csharp\obj\Debug\Lab Work 4 third semester Csharp.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\Lab Work 4 third semester Csharp\Lab Work 4 third semester Csharp\obj\Debug\Lab Work 4 third semester Csharp.exe
+C:\Users\Hp\source\repos\Lab Work 4 third semester Csharp\Lab Work 4 third semester Csharp\obj\Debug\Lab Work 4 third semester Csharp.pdb
