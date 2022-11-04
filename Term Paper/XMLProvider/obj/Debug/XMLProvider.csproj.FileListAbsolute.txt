@@ -1,0 +1,10 @@
+C:\Users\Hp\source\repos\Term Paper\XMLProvider\obj\Debug\XMLProvider.csprojAssemblyReference.cache
+C:\Users\Hp\source\repos\Term Paper\XMLProvider\obj\Debug\XMLProvider.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\Term Paper\XMLProvider\bin\Debug\XMLProvider.dll.config
+C:\Users\Hp\source\repos\Term Paper\XMLProvider\bin\Debug\XMLProvider.dll
+C:\Users\Hp\source\repos\Term Paper\XMLProvider\bin\Debug\XMLProvider.pdb
+C:\Users\Hp\source\repos\Term Paper\XMLProvider\bin\Debug\DataProviderContract.dll
+C:\Users\Hp\source\repos\Term Paper\XMLProvider\bin\Debug\DataProviderContract.pdb
+C:\Users\Hp\source\repos\Term Paper\XMLProvider\obj\Debug\XMLProvider.csproj.CopyComplete
+C:\Users\Hp\source\repos\Term Paper\XMLProvider\obj\Debug\XMLProvider.dll
+C:\Users\Hp\source\repos\Term Paper\XMLProvider\obj\Debug\XMLProvider.pdb

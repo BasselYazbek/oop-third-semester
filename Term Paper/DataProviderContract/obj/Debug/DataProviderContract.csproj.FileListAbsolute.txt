@@ -1,0 +1,6 @@
+C:\Users\Hp\source\repos\Term Paper\DataProviderContract\obj\Debug\DataProviderContract.csprojAssemblyReference.cache
+C:\Users\Hp\source\repos\Term Paper\DataProviderContract\obj\Debug\DataProviderContract.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\Term Paper\DataProviderContract\bin\Debug\DataProviderContract.dll
+C:\Users\Hp\source\repos\Term Paper\DataProviderContract\bin\Debug\DataProviderContract.pdb
+C:\Users\Hp\source\repos\Term Paper\DataProviderContract\obj\Debug\DataProviderContract.dll
+C:\Users\Hp\source\repos\Term Paper\DataProviderContract\obj\Debug\DataProviderContract.pdb

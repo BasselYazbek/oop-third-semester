@@ -1,0 +1,10 @@
+C:\Users\Hp\source\repos\Term Paper\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\Term Paper\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\Hp\source\repos\Term Paper\DAL\bin\Debug\DAL.dll.config
+C:\Users\Hp\source\repos\Term Paper\DAL\bin\Debug\DAL.dll
+C:\Users\Hp\source\repos\Term Paper\DAL\bin\Debug\DAL.pdb
+C:\Users\Hp\source\repos\Term Paper\DAL\bin\Debug\DataProviderContract.dll
+C:\Users\Hp\source\repos\Term Paper\DAL\bin\Debug\DataProviderContract.pdb
+C:\Users\Hp\source\repos\Term Paper\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Hp\source\repos\Term Paper\DAL\obj\Debug\DAL.dll
+C:\Users\Hp\source\repos\Term Paper\DAL\obj\Debug\DAL.pdb

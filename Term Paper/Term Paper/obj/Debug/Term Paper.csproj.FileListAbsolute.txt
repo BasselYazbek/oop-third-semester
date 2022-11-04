@@ -1,0 +1,22 @@
+C:\Users\Hp\source\repos\Term Paper\Term Paper\obj\Debug\Term Paper.csprojAssemblyReference.cache
+C:\Users\Hp\source\repos\Term Paper\Term Paper\obj\Debug\Term Paper.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\Term Paper\Term Paper\bin\Debug\Term Paper.exe.config
+C:\Users\Hp\source\repos\Term Paper\Term Paper\bin\Debug\Term Paper.exe
+C:\Users\Hp\source\repos\Term Paper\Term Paper\bin\Debug\Term Paper.pdb
+C:\Users\Hp\source\repos\Term Paper\Term Paper\bin\Debug\BLL.dll
+C:\Users\Hp\source\repos\Term Paper\Term Paper\bin\Debug\DAL.dll
+C:\Users\Hp\source\repos\Term Paper\Term Paper\bin\Debug\DataProviderContract.dll
+C:\Users\Hp\source\repos\Term Paper\Term Paper\bin\Debug\PL.dll
+C:\Users\Hp\source\repos\Term Paper\Term Paper\bin\Debug\XMLProvider.dll
+C:\Users\Hp\source\repos\Term Paper\Term Paper\bin\Debug\BLL.pdb
+C:\Users\Hp\source\repos\Term Paper\Term Paper\bin\Debug\BLL.dll.config
+C:\Users\Hp\source\repos\Term Paper\Term Paper\bin\Debug\DAL.pdb
+C:\Users\Hp\source\repos\Term Paper\Term Paper\bin\Debug\DAL.dll.config
+C:\Users\Hp\source\repos\Term Paper\Term Paper\bin\Debug\DataProviderContract.pdb
+C:\Users\Hp\source\repos\Term Paper\Term Paper\bin\Debug\PL.pdb
+C:\Users\Hp\source\repos\Term Paper\Term Paper\bin\Debug\PL.dll.config
+C:\Users\Hp\source\repos\Term Paper\Term Paper\bin\Debug\XMLProvider.pdb
+C:\Users\Hp\source\repos\Term Paper\Term Paper\bin\Debug\XMLProvider.dll.config
+C:\Users\Hp\source\repos\Term Paper\Term Paper\obj\Debug\Term Paper.csproj.CopyComplete
+C:\Users\Hp\source\repos\Term Paper\Term Paper\obj\Debug\Term Paper.exe
+C:\Users\Hp\source\repos\Term Paper\Term Paper\obj\Debug\Term Paper.pdb
