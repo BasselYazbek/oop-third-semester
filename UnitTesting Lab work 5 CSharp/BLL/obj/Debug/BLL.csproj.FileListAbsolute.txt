@@ -1,0 +1,14 @@
+C:\Users\Hp\source\repos\UnitTesting Lab work 5 CSharp\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\UnitTesting Lab work 5 CSharp\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\Hp\source\repos\UnitTesting Lab work 5 CSharp\BLL\bin\Debug\BLL.dll.config
+C:\Users\Hp\source\repos\UnitTesting Lab work 5 CSharp\BLL\bin\Debug\BLL.dll
+C:\Users\Hp\source\repos\UnitTesting Lab work 5 CSharp\BLL\bin\Debug\BLL.pdb
+C:\Users\Hp\source\repos\UnitTesting Lab work 5 CSharp\BLL\bin\Debug\DAL.dll
+C:\Users\Hp\source\repos\UnitTesting Lab work 5 CSharp\BLL\bin\Debug\DataProviderContact.dll
+C:\Users\Hp\source\repos\UnitTesting Lab work 5 CSharp\BLL\bin\Debug\DAL.pdb
+C:\Users\Hp\source\repos\UnitTesting Lab work 5 CSharp\BLL\bin\Debug\DAL.dll.config
+C:\Users\Hp\source\repos\UnitTesting Lab work 5 CSharp\BLL\bin\Debug\DataProviderContact.pdb
+C:\Users\Hp\source\repos\UnitTesting Lab work 5 CSharp\BLL\bin\Debug\DataProviderContact.dll.config
+C:\Users\Hp\source\repos\UnitTesting Lab work 5 CSharp\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\Hp\source\repos\UnitTesting Lab work 5 CSharp\BLL\obj\Debug\BLL.dll
+C:\Users\Hp\source\repos\UnitTesting Lab work 5 CSharp\BLL\obj\Debug\BLL.pdb

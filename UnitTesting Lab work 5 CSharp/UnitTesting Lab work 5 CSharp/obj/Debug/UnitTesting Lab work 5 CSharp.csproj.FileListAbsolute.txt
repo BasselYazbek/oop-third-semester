@@ -1,0 +1,23 @@
+C:\Users\Hp\source\repos\UnitTesting Lab work 5 CSharp\UnitTesting Lab work 5 CSharp\obj\Debug\UnitTesting Lab work 5 CSharp.csprojAssemblyReference.cache
+C:\Users\Hp\source\repos\UnitTesting Lab work 5 CSharp\UnitTesting Lab work 5 CSharp\obj\Debug\UnitTesting Lab work 5 CSharp.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\UnitTesting Lab work 5 CSharp\UnitTesting Lab work 5 CSharp\bin\Debug\UnitTesting Lab work 5 CSharp.exe.config
+C:\Users\Hp\source\repos\UnitTesting Lab work 5 CSharp\UnitTesting Lab work 5 CSharp\bin\Debug\UnitTesting Lab work 5 CSharp.exe
+C:\Users\Hp\source\repos\UnitTesting Lab work 5 CSharp\UnitTesting Lab work 5 CSharp\bin\Debug\UnitTesting Lab work 5 CSharp.pdb
+C:\Users\Hp\source\repos\UnitTesting Lab work 5 CSharp\UnitTesting Lab work 5 CSharp\bin\Debug\BLL.dll
+C:\Users\Hp\source\repos\UnitTesting Lab work 5 CSharp\UnitTesting Lab work 5 CSharp\bin\Debug\DAL.dll
+C:\Users\Hp\source\repos\UnitTesting Lab work 5 CSharp\UnitTesting Lab work 5 CSharp\bin\Debug\DataProviderContact.dll
+C:\Users\Hp\source\repos\UnitTesting Lab work 5 CSharp\UnitTesting Lab work 5 CSharp\bin\Debug\PL.dll
+C:\Users\Hp\source\repos\UnitTesting Lab work 5 CSharp\UnitTesting Lab work 5 CSharp\bin\Debug\XMLProvider.dll
+C:\Users\Hp\source\repos\UnitTesting Lab work 5 CSharp\UnitTesting Lab work 5 CSharp\bin\Debug\BLL.pdb
+C:\Users\Hp\source\repos\UnitTesting Lab work 5 CSharp\UnitTesting Lab work 5 CSharp\bin\Debug\BLL.dll.config
+C:\Users\Hp\source\repos\UnitTesting Lab work 5 CSharp\UnitTesting Lab work 5 CSharp\bin\Debug\DAL.pdb
+C:\Users\Hp\source\repos\UnitTesting Lab work 5 CSharp\UnitTesting Lab work 5 CSharp\bin\Debug\DAL.dll.config
+C:\Users\Hp\source\repos\UnitTesting Lab work 5 CSharp\UnitTesting Lab work 5 CSharp\bin\Debug\DataProviderContact.pdb
+C:\Users\Hp\source\repos\UnitTesting Lab work 5 CSharp\UnitTesting Lab work 5 CSharp\bin\Debug\DataProviderContact.dll.config
+C:\Users\Hp\source\repos\UnitTesting Lab work 5 CSharp\UnitTesting Lab work 5 CSharp\bin\Debug\PL.pdb
+C:\Users\Hp\source\repos\UnitTesting Lab work 5 CSharp\UnitTesting Lab work 5 CSharp\bin\Debug\PL.dll.config
+C:\Users\Hp\source\repos\UnitTesting Lab work 5 CSharp\UnitTesting Lab work 5 CSharp\bin\Debug\XMLProvider.pdb
+C:\Users\Hp\source\repos\UnitTesting Lab work 5 CSharp\UnitTesting Lab work 5 CSharp\bin\Debug\XMLProvider.dll.config
+C:\Users\Hp\source\repos\UnitTesting Lab work 5 CSharp\UnitTesting Lab work 5 CSharp\obj\Debug\UnitTesting Lab work 5 CSharp.csproj.CopyComplete
+C:\Users\Hp\source\repos\UnitTesting Lab work 5 CSharp\UnitTesting Lab work 5 CSharp\obj\Debug\UnitTesting Lab work 5 CSharp.exe
+C:\Users\Hp\source\repos\UnitTesting Lab work 5 CSharp\UnitTesting Lab work 5 CSharp\obj\Debug\UnitTesting Lab work 5 CSharp.pdb

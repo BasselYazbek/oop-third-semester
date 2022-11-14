@@ -1,0 +1,7 @@
+C:\Users\Hp\source\repos\UnitTesting Lab work 5 CSharp\DataProviderContact\obj\Debug\DataProviderContact.csprojAssemblyReference.cache
+C:\Users\Hp\source\repos\UnitTesting Lab work 5 CSharp\DataProviderContact\obj\Debug\DataProviderContact.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\UnitTesting Lab work 5 CSharp\DataProviderContact\bin\Debug\DataProviderContact.dll.config
+C:\Users\Hp\source\repos\UnitTesting Lab work 5 CSharp\DataProviderContact\bin\Debug\DataProviderContact.dll
+C:\Users\Hp\source\repos\UnitTesting Lab work 5 CSharp\DataProviderContact\bin\Debug\DataProviderContact.pdb
+C:\Users\Hp\source\repos\UnitTesting Lab work 5 CSharp\DataProviderContact\obj\Debug\DataProviderContact.dll
+C:\Users\Hp\source\repos\UnitTesting Lab work 5 CSharp\DataProviderContact\obj\Debug\DataProviderContact.pdb

@@ -1,0 +1,11 @@
+C:\Users\Hp\source\repos\UnitTesting Lab work 5 CSharp\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\UnitTesting Lab work 5 CSharp\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\Hp\source\repos\UnitTesting Lab work 5 CSharp\DAL\bin\Debug\DAL.dll.config
+C:\Users\Hp\source\repos\UnitTesting Lab work 5 CSharp\DAL\bin\Debug\DAL.dll
+C:\Users\Hp\source\repos\UnitTesting Lab work 5 CSharp\DAL\bin\Debug\DAL.pdb
+C:\Users\Hp\source\repos\UnitTesting Lab work 5 CSharp\DAL\bin\Debug\DataProviderContact.dll
+C:\Users\Hp\source\repos\UnitTesting Lab work 5 CSharp\DAL\bin\Debug\DataProviderContact.pdb
+C:\Users\Hp\source\repos\UnitTesting Lab work 5 CSharp\DAL\bin\Debug\DataProviderContact.dll.config
+C:\Users\Hp\source\repos\UnitTesting Lab work 5 CSharp\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Hp\source\repos\UnitTesting Lab work 5 CSharp\DAL\obj\Debug\DAL.dll
+C:\Users\Hp\source\repos\UnitTesting Lab work 5 CSharp\DAL\obj\Debug\DAL.pdb
